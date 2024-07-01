@@ -1,6 +1,6 @@
 Below are the javascript and python scripts which automates certain recurring work of a data quality editor on sassie platforms :
 
-Beautify.js - UI Beautifier
+Beautify.js - UI Beautifier\n
 Comments.js - Prints out comments
 Entry Exit time checker.js - Check for Entry Exit time & minimum duration of visit.
 HideGrey.js - Hides gray comments
